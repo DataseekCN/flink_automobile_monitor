@@ -1,0 +1,14 @@
+com\ccclubs\message\bean\OnlinePace.class
+com\ccclubs\message\business\realtime\status\StatusThread.class
+com\ccclubs\message\app\ConsumerApp.class
+com\ccclubs\message\bean\GeoBean.class
+com\ccclubs\message\business\activity\pace\PaceConsumerService.class
+com\ccclubs\message\business\location\LocationConsumerService.class
+com\ccclubs\message\util\MessageConst.class
+com\ccclubs\message\business\activity\pace\PaceThread.class
+com\ccclubs\message\business\telecom\network\OnlineThread.class
+com\ccclubs\message\business\realtime\status\StatusConsumerService.class
+com\ccclubs\message\bean\Pace.class
+com\ccclubs\message\business\location\LocationThread.class
+com\ccclubs\message\business\telecom\network\OnlineConsumerService.class
+com\ccclubs\message\bean\CarState.class
