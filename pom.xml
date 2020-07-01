@@ -41,7 +41,7 @@
         <fastjson.version>1.2.31</fastjson.version>
         <geohash.version>1.3.0</geohash.version>
         <jedis.version>2.9.0</jedis.version>
-        <mysql-connector-java.version>5.1.38</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.16</mysql-connector-java.version>
         <kafka-clients.version>0.11.0.1</kafka-clients.version>
         <druid.version>1.1.10</druid.version>
         <commons-io.version>2.5</commons-io.version>
